@@ -1,5 +1,5 @@
 ## Approach
-The solution uses the two-pointer technique to reverse the input character array (`vector<char>& s`) in-place, adhering to the problem's requirement of O(1) extra memory. Here's a step-by-step breakdown:
+The solution uses the two-pointer technique to reverse the input character array (`vector<char>& s`) in-place.. Breakdown of the code:
 
 - **Initialize Pointers**:
   - `start` is set to 0 (the beginning of the array).
