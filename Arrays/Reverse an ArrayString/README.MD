@@ -1,4 +1,5 @@
-# Reverse String (LeetCode 344)  [Link](https://leetcode.com/problems/reverse-string/description/)
+# Reverse String (LeetCode 344)  
+##### [Link](https://leetcode.com/problems/reverse-string/description/)
 
 ## Problem Description
 This repository contains a solution to the LeetCode problem 344: Reverse String. The task is to write a function that reverses a string represented as an array of characters. The reversal must be done in-place, modifying the input array directly, and using O(1) extra memory.
