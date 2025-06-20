@@ -1,14 +1,10 @@
+// User function Template for C++
 class Solution {
-public:
-    void reverseString(vector<char>& s) {
-        int start = 0;
-        int end = s.size()-1;
-
-        while(start < end){
-            swap(s[start], s[end]);
-            start++;
-            end--;
-        }
+  public:
+    pair<int, int> getMinMax(vector<int> arr) {
+        // code here
+        int n = arr.size();
+        sort(arr.begin(), arr.end());
+        return {arr[0], arr[n-1]};
     }
-    
 };
