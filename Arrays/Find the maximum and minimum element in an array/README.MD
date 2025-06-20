@@ -1,24 +1,37 @@
-# Reverse String (LeetCode 344)
+# Min and Max in Array
+
 
 ## Problem Description
-This repository contains a solution to the LeetCode problem 344: Reverse String. The task is to write a function that reverses a string represented as an array of characters. The reversal must be done in-place, modifying the input array directly, and using O(1) extra memory.
+Given an array arr. Your task is to find the minimum and maximum elements in the array.
+
+Note: Return a Pair that contains two elements the first one will be a minimum element and the second will be a maximum.
 
 ### Examples
 **Example 1:**
 
 ```
-Input: s = ["h","e","l","l","o"]
-Output: ["o","l","l","e","h"]
+Input: arr[] = [3, 2, 1, 56, 10000, 167]
+Output: 1 10000
+Explanation: minimum and maximum elements of array are 1 and 10000.
 ```
 
 
 **Example 2:**
 
 ```
-Input: s = ["H","a","n","n","a","H"]
-Output: ["h","a","n","n","a","H"]
+Input: arr[] = [1, 345, 234, 21, 56789]
+Output: 1 56789
+Explanation: minimum and maximum element of array are 1 and 56789.
+```
+
+**Example 3:**
+
+```
+Input: arr[] = [56789]
+Output: 56789 56789
+Explanation: Since the array contains only one element so both min & max are same.
 ```
 
 ### Constraints
-- 1 <= s.length <= 10^5
-- s[i] is a printable ASCII character.
+- 1 <= arr.size() <= 10^5
+- 1 <= arr[i] <= 10^9
