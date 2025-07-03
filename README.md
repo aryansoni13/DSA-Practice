@@ -82,6 +82,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aryansoni13/DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [2423-minimum-deletions-to-make-array-divisible](https://github.com/aryansoni13/DSA-Practice/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 ## Binary Search
 |  |
 | ------- |
@@ -93,6 +94,7 @@ Happy Coding! 🚀
 ## Math
 |  |
 | ------- |
+| [2423-minimum-deletions-to-make-array-divisible](https://github.com/aryansoni13/DSA-Practice/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/aryansoni13/DSA-Practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Bit Manipulation
 |  |
@@ -106,4 +108,16 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/aryansoni13/DSA-Practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Sorting
+|  |
+| ------- |
+| [2423-minimum-deletions-to-make-array-divisible](https://github.com/aryansoni13/DSA-Practice/tree/master/2423-minimum-deletions-to-make-array-divisible) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2423-minimum-deletions-to-make-array-divisible](https://github.com/aryansoni13/DSA-Practice/tree/master/2423-minimum-deletions-to-make-array-divisible) |
+## Number Theory
+|  |
+| ------- |
+| [2423-minimum-deletions-to-make-array-divisible](https://github.com/aryansoni13/DSA-Practice/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 <!---LeetCode Topics End-->
