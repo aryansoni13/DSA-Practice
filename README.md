@@ -83,6 +83,7 @@ Happy Coding! 🚀
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aryansoni13/DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0088-merge-sorted-array](https://github.com/aryansoni13/DSA-Practice/tree/master/0088-merge-sorted-array) |
+| [0978-valid-mountain-array](https://github.com/aryansoni13/DSA-Practice/tree/master/0978-valid-mountain-array) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/aryansoni13/DSA-Practice/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 ## Binary Search
 |  |
