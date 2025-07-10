@@ -82,6 +82,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aryansoni13/DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0042-trapping-rain-water](https://github.com/aryansoni13/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/aryansoni13/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0978-valid-mountain-array](https://github.com/aryansoni13/DSA-Practice/tree/master/0978-valid-mountain-array) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/aryansoni13/DSA-Practice/tree/master/2423-minimum-deletions-to-make-array-divisible) |
@@ -126,5 +127,18 @@ Happy Coding! 🚀
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/aryansoni13/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/aryansoni13/DSA-Practice/tree/master/0088-merge-sorted-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/aryansoni13/DSA-Practice/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/aryansoni13/DSA-Practice/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/aryansoni13/DSA-Practice/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
