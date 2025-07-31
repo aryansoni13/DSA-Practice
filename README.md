@@ -133,6 +133,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aryansoni13/DSA-Practice/tree/master/0042-trapping-rain-water) |
+| [0072-edit-distance](https://github.com/aryansoni13/DSA-Practice/tree/master/0072-edit-distance) |
 ## Stack
 |  |
 | ------- |
@@ -141,4 +142,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aryansoni13/DSA-Practice/tree/master/0042-trapping-rain-water) |
+## String
+|  |
+| ------- |
+| [0072-edit-distance](https://github.com/aryansoni13/DSA-Practice/tree/master/0072-edit-distance) |
 <!---LeetCode Topics End-->
