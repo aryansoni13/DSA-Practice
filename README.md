@@ -100,6 +100,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/aryansoni13/DSA-Practice/tree/master/2423-minimum-deletions-to-make-array-divisible) |
+| [2481-strictly-palindromic-number](https://github.com/aryansoni13/DSA-Practice/tree/master/2481-strictly-palindromic-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/aryansoni13/DSA-Practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Bit Manipulation
 |  |
@@ -131,6 +132,7 @@ Happy Coding! 🚀
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aryansoni13/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/aryansoni13/DSA-Practice/tree/master/0088-merge-sorted-array) |
+| [2481-strictly-palindromic-number](https://github.com/aryansoni13/DSA-Practice/tree/master/2481-strictly-palindromic-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -149,4 +151,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/aryansoni13/DSA-Practice/tree/master/0072-edit-distance) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/aryansoni13/DSA-Practice/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
