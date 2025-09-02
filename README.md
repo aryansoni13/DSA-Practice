@@ -81,6 +81,7 @@ Happy Coding! 🚀
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aryansoni13/DSA-Practice/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/aryansoni13/DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0042-trapping-rain-water](https://github.com/aryansoni13/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/aryansoni13/DSA-Practice/tree/master/0088-merge-sorted-array) |
@@ -163,4 +164,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/aryansoni13/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/aryansoni13/DSA-Practice/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
