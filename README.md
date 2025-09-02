@@ -86,6 +86,7 @@ Happy Coding! 🚀
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aryansoni13/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/aryansoni13/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/aryansoni13/DSA-Practice/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/aryansoni13/DSA-Practice/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/aryansoni13/DSA-Practice/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aryansoni13/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0978-valid-mountain-array](https://github.com/aryansoni13/DSA-Practice/tree/master/0978-valid-mountain-array) |
@@ -103,6 +104,7 @@ Happy Coding! 🚀
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/aryansoni13/DSA-Practice/tree/master/0189-rotate-array) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/aryansoni13/DSA-Practice/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2481-strictly-palindromic-number](https://github.com/aryansoni13/DSA-Practice/tree/master/2481-strictly-palindromic-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/aryansoni13/DSA-Practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -139,6 +141,7 @@ Happy Coding! 🚀
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aryansoni13/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/aryansoni13/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/aryansoni13/DSA-Practice/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/aryansoni13/DSA-Practice/tree/master/0189-rotate-array) |
 | [2481-strictly-palindromic-number](https://github.com/aryansoni13/DSA-Practice/tree/master/2481-strictly-palindromic-number) |
 ## Dynamic Programming
 |  |
