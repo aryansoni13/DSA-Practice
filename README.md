@@ -90,6 +90,7 @@ Happy Coding! 🚀
 | [0198-house-robber](https://github.com/aryansoni13/DSA-Practice/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aryansoni13/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/aryansoni13/DSA-Practice/tree/master/0283-move-zeroes) |
+| [0792-binary-search](https://github.com/aryansoni13/DSA-Practice/tree/master/0792-binary-search) |
 | [0978-valid-mountain-array](https://github.com/aryansoni13/DSA-Practice/tree/master/0978-valid-mountain-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/aryansoni13/DSA-Practice/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/aryansoni13/DSA-Practice/tree/master/2423-minimum-deletions-to-make-array-divisible) |
@@ -97,6 +98,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aryansoni13/DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0792-binary-search](https://github.com/aryansoni13/DSA-Practice/tree/master/0792-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
