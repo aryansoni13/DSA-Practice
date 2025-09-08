@@ -93,6 +93,7 @@ Happy Coding! 🚀
 | [0792-binary-search](https://github.com/aryansoni13/DSA-Practice/tree/master/0792-binary-search) |
 | [0978-valid-mountain-array](https://github.com/aryansoni13/DSA-Practice/tree/master/0978-valid-mountain-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/aryansoni13/DSA-Practice/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2026-merge-triplets-to-form-target-triplet](https://github.com/aryansoni13/DSA-Practice/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/aryansoni13/DSA-Practice/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 ## Binary Search
 |  |
@@ -177,4 +178,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aryansoni13/DSA-Practice/tree/master/0001-two-sum) |
+## Greedy
+|  |
+| ------- |
+| [2026-merge-triplets-to-form-target-triplet](https://github.com/aryansoni13/DSA-Practice/tree/master/2026-merge-triplets-to-form-target-triplet) |
 <!---LeetCode Topics End-->
