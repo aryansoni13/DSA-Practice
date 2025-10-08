@@ -4,11 +4,9 @@ class Solution {
   public:
     void rotate(vector<int> &arr) {
         // code here
-        int n = arr.size();
-        int i = 0,j = n-1;
-        while(i != j){
-            swap(arr[i], arr[j]);
-            i++;
-        }
+        int k =1;
+        reverse(arr.begin(), arr.end());
+        reverse(arr.begin(), arr.begin()+k);
+        reverse(arr.begin()+k, arr.end());
     }
 };
