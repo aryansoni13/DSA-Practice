@@ -111,6 +111,7 @@ Happy Coding! 🚀
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/aryansoni13/DSA-Practice/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/aryansoni13/DSA-Practice/tree/master/0189-rotate-array) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/aryansoni13/DSA-Practice/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2481-strictly-palindromic-number](https://github.com/aryansoni13/DSA-Practice/tree/master/2481-strictly-palindromic-number) |
