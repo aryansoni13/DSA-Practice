@@ -113,6 +113,7 @@ Happy Coding! 🚀
 | ------- |
 | [0007-reverse-integer](https://github.com/aryansoni13/DSA-Practice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/aryansoni13/DSA-Practice/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/aryansoni13/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/aryansoni13/DSA-Practice/tree/master/0189-rotate-array) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/aryansoni13/DSA-Practice/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2481-strictly-palindromic-number](https://github.com/aryansoni13/DSA-Practice/tree/master/2481-strictly-palindromic-number) |
@@ -171,6 +172,7 @@ Happy Coding! 🚀
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/aryansoni13/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0072-edit-distance](https://github.com/aryansoni13/DSA-Practice/tree/master/0072-edit-distance) |
 ## Brainteaser
 |  |
@@ -184,6 +186,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aryansoni13/DSA-Practice/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/aryansoni13/DSA-Practice/tree/master/0013-roman-to-integer) |
 ## Greedy
 |  |
 | ------- |
