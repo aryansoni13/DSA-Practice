@@ -87,6 +87,7 @@ Happy Coding! 🚀
 | [0042-trapping-rain-water](https://github.com/aryansoni13/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/aryansoni13/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/aryansoni13/DSA-Practice/tree/master/0088-merge-sorted-array) |
+| [0179-largest-number](https://github.com/aryansoni13/DSA-Practice/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/aryansoni13/DSA-Practice/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/aryansoni13/DSA-Practice/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aryansoni13/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
@@ -134,6 +135,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/aryansoni13/DSA-Practice/tree/master/0088-merge-sorted-array) |
+| [0179-largest-number](https://github.com/aryansoni13/DSA-Practice/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aryansoni13/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/aryansoni13/DSA-Practice/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 ## Heap (Priority Queue)
@@ -174,6 +176,7 @@ Happy Coding! 🚀
 | ------- |
 | [0013-roman-to-integer](https://github.com/aryansoni13/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0072-edit-distance](https://github.com/aryansoni13/DSA-Practice/tree/master/0072-edit-distance) |
+| [0179-largest-number](https://github.com/aryansoni13/DSA-Practice/tree/master/0179-largest-number) |
 ## Brainteaser
 |  |
 | ------- |
@@ -190,5 +193,6 @@ Happy Coding! 🚀
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/aryansoni13/DSA-Practice/tree/master/0179-largest-number) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/aryansoni13/DSA-Practice/tree/master/2026-merge-triplets-to-form-target-triplet) |
 <!---LeetCode Topics End-->
